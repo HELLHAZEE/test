@@ -1,0 +1,131 @@
+    /* @font-face {
+        font-family: 'TheSadTrainRegular'; 
+    src: url(../css/font/TheSadTrainRegular.ttf); }
+li {font-family: 'TheSadTrainRegular';}
+li {font-size: 25px;} */
+
+body {
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+color: #7581a1;
+line-height: 26px;
+}
+
+a {
+text-decoration: none;
+}
+
+h1 {
+font-size: 60px; font-weight: 800; color: #192b59;
+}
+
+.nav {
+font-size: 12px; font-weight: 700; color: #6e7ea9;
+text-transform: uppercase;
+}
+
+.btn-free {
+color: #fff;
+font-weight: 400;
+background-color: #1085e4;
+}
+
+.grid h2 {
+font-size: 40px;
+color: #192b59;
+font-weight: 700;
+}
+
+.grid h2 span{
+font-size: 14px;
+color: #1085e4;
+display: block;
+}
+
+.grid-item h3 {
+font-size: 20px;
+font-weight: 600;
+color: #192b59;
+}
+
+.grid-item a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #208de6;
+}
+
+.grid h2 span{
+font-size: 12px;
+font-weight: 404;
+color: #00bffe;
+display: block;
+}
+
+.grid h2{
+font-size: 47px;
+font-weight: 400;
+color: #fff;
+}
+
+.grid input{
+font-size: 12px;
+font-weight: 404;
+color: #859ad7;
+}
+
+.btn-sub {
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+
+.grid-head {
+font-size: 40px;
+font-weight: 700;
+color: #192b59;
+}
+
+.page-software dt {
+    font-size: 14px;
+    color: #5a6789; 
+}
+
+.page-stat h2 span{
+font-size: 12px;
+font-weight: 404;
+color: #1085e4;
+display: block;
+}
+
+.page-stat li{ 
+    font-size: 14px;
+    font-weight: 404;
+    color: #1085e4;
+    display: block;
+}
+
+.page-stat span{ 
+    font-size: 14px;
+    font-weight: 404;
+    color: #c4d2dd;
+    display: block;
+}
+
+.page-app p1{
+font-size: 16px;
+font-weight: 404;
+color: #c4d2dd;
+}
+
+.btn-started{
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+
+.btn-learn{
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+
