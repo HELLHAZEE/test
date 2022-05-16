@@ -419,6 +419,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', end
     padding: 0;
 }
 
+.page-software-list {
+    overflow-y: scroll;
+    height: 200px;
+    width: 500px;
+    }
+    
+    .page-software-list::-webkit-scrollbar {
+    width: 4px;
+    border-radius: 6px;
+    background-color: gainsboro;
+    }
+    
+    .page-software-list::-webkit-scrollbar-thumb {
+    background: purple;
+    }
+
 .page-software {
     height: 1000px;
     background-image: url(../img/bg5.png);
